@@ -1,6 +1,8 @@
+### <img src="https://habrastorage.org/webt/9x/n0/98/9xn098xh1gdzice440crtg62ai8.png" title="mobile testing" alt="mobile testing" width="350" height="150"/>
 ### Тестирование мобильного приложения
 <hr>
-<p>Задачей являлось провести полноценное тестирование мобильного приложения на платформе Android. Для целей тестирования использовался как реальный девайс, так и эмулятор (Android Studio). Сам файл установки находится <a href="https://drive.google.com/file/d/1IkqWnm6z293ETG0MdveKTjrsrWd7WQHz/view?usp=sharing"> здесь </a>. <br>
+<p>Мной было проведено полноценное тестирование мобильного приложения на платформе Android. Для целей тестирования использовался как реальный девайс, так и эмулятор (Android Studio). Сам файл установки находится <a href="https://drive.google.com/file/d/1IkqWnm6z293ETG0MdveKTjrsrWd7WQHz/view?usp=sharing"> здесь </a>. <br>
+Задачи, которые ставились передо мной, и их решения приведены ниже.
 <hr>
  <p><strong> Задание  </strong></p> 
  <ol>
